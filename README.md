@@ -284,7 +284,6 @@ POSTGRES_PORT=5432
 │   │   │   ├── FooterPages
 │   │   │   │   ├── AboutPage.tsx
 │   │   │   │   ├── AppPage.tsx
-│   │   │   │   └── FbFPage.tsx
 │   │   │   ├── Home
 │   │   │   │   └── HomePage.tsx
 │   │   │   ├── Login
