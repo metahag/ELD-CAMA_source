@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "bootstrap": "^5.3.3",
-    "react-token-auth": "^2.3.8"
-  }
-}
